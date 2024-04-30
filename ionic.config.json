@@ -1,0 +1,7 @@
+{
+  "name": "ion-vue-assets-locator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
